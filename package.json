@@ -1,0 +1,19 @@
+{
+  "name": "coplit",
+  "version": "1.0.0",
+  "description": "solve algorithm problem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JayKim88/coplit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JayKim88/coplit/issues"
+  },
+  "homepage": "https://github.com/JayKim88/coplit#readme"
+}
